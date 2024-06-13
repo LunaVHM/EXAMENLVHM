@@ -1,0 +1,10 @@
+¿Qué significa CSS?
+CSS significa "Cascading Style Sheets" (Hojas de Estilo en Cascada). Se trata de un lenguaje de estilo utilizado para describir la presentación de un documento HTML (o XML) estructurado. Con CSS, puedes definir cómo se ven los elementos HTML en términos de diseño, formato, color y disposición en la página.
+¿Cuál es el HTML correcto para hacer referencia a una hoja de estilo externa?
+El HTML correcto para hacer referencia a una hoja de estilo externa es mediante la etiqueta <link> dentro del elemento <head>.
+¿En qué parte de un documento HTML está el lugar correcto para hacer referencia a una hoja de estilo externa?
+La referencia a una hoja de estilo externa debe colocarse dentro del elemento <head> del documento HTML.
+¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna?
+La etiqueta HTML que se utiliza para definir una hoja de estilo interna es <style>. 
+¿Qué atributo HTML se utiliza para definir estilos en línea?
+El atributo HTML que se utiliza para definir estilos en línea es el atributo style. Este atributo se puede agregar a cualquier elemento HTML para aplicar estilos directamente a ese elemento. 

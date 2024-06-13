@@ -1,0 +1,11 @@
+inicio del codigo 
+crear variable txt
+ingresar un numero y guardarlo en txt
+si (txt >= 1 && txt <= 5)
+entonces volver a poner en blanco el custionario
+si no, si (txt < 1)
+entonces escribir "Es menor que 1, debe estar entre 1 y 5"
+si no, si (txt > 5) 
+ entonces escribir "Es mayor que 5, debe estar entre 1 y 5"
+ fin del si
+ fin del codigo
